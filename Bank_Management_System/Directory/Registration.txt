@@ -1,0 +1,1 @@
+--Acc_Num-- --F_N-- --L_N-- --Email-- --Phone_N-- --Address-- --Birth_Date-- --NID_N-- --First_Deposite--
